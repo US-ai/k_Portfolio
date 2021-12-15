@@ -227,3 +227,9 @@ section:nth-child(2n){
     }
     
     }
+
+.takasa {
+    height: 280px;
+    display: flex;
+    align-items: center;
+}
